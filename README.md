@@ -1,4 +1,5 @@
 # AI-University-Chatbot-Assistant-Inf
+### This project will be fully public on August 20, 2026
 
 # UniVoice — AI Admission Assistant for Pakistan
 
